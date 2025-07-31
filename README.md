@@ -1,2 +1,2 @@
 # desafio-tecnico-fadesp-api-pagamento
-API para provessar pagamentos como desafio técnico estalecido para vaga fullstack na FADESP
+API para provisioar pagamentos como desafio técnico estalecido para vaga fullstack na FADESP
